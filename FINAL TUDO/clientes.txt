@@ -1,0 +1,14 @@
+13
+1; Manuel Antonio Guedes; 1/7/2016; 10.03
+16; Albina Martins; 2/7/2016; 223.00
+6; Jose Antonio Marques; 9/7/2016; 221.10
+4; Maria Alice Almeida; 10/7/2016; 120.33
+7; MM; 9/7/2016; 15.2
+17; Estrugido; 10/7/2016; 124.2
+18; Major; 9/7/2016; 32.3
+19; Sid; 10/7/2016; 12000.33
+20; Conta; 10/7/2016; 1.33
+21; Frutinha; 13/2/2014; 323.2
+22; Rodinhas; 13/2/2014; 2.3
+23; Palhinhas; 13/2/2014; 1.73
+24; Colar; 23/5/2013; 4.2
